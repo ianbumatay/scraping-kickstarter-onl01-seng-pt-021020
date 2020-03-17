@@ -3,7 +3,7 @@ require "nokogiri"
 require "pry"
 
   # write your code here
-  
+
 
   # projects: kickstarter.css("li.project.grid_4")
   # title: project.css("h2.bbcard_name strong a").text
@@ -31,7 +31,3 @@ require "pry"
     # return the projects hash
     projects
   end
-
-
-
-end
